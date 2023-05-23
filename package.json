@@ -2,10 +2,10 @@
   "name": "tasks-javascript",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://damtchorzewski.github.io/tasks-javascript/",
+  "homepage": "https://damtchorzewski.github.io/Tasks-JavaScript/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /tasks-javascript/"
+    "build": "parcel build src/*.html --public-url /Tasks-JavaScript/"
   },
   "repository": {
     "type": "git",
